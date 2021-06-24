@@ -1,8 +1,8 @@
 {
-  "name": "Meet Participants to CSV",
-  "version": "1.0",
+  "name": "Google Meet Attendance: Participants list to CSV",
+  "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Save the names of your participants to a CSV file instantly",
+  "description": "Save the names of your Google Meet participants to a CSV file instantly",
   "background": {
     "scripts": ["background.js"]
   },
