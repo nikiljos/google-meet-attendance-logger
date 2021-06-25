@@ -32,7 +32,7 @@ TimeforCSV = formattedDate + "," + hours + ":" + minutes + "";
 
 
 // 
-var meta = "Meeting ID,Meeting Date,Log Time,\n" + meetID + "," + TimeforCSV + ",\n,\nParticipants,\n,\n"
+var meta = "Meeting ID,Meeting Date,Log Time,,Generated using Meet Attendance Chrome Extension\n" + meetID + "," + TimeforCSV + ',,To Know More and Give Feedback,\n,,,,=HYPERLINK("https://meet-attendance.nikjos.in/"),\nParticipants,\n,\n'
 
 for (i = 0; i < y; i++) {
   arrayToCSV += x[i].innerText + ",\n";
