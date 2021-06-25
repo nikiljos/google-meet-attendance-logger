@@ -1,5 +1,5 @@
 {
-  "name": "Google Meet Attendance: Participants list to CSV",
+  "name": "Google Meet Attendance: Participants to CSV",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Save the names of your Google Meet participants to a CSV file instantly",
