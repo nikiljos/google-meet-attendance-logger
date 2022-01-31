@@ -1,4 +1,4 @@
-x = document.getElementsByClassName("ZjFb7c");
+x = document.getElementsByClassName("zWGUib");
 y = x.length
 arr = new Array()
 var arrayToCSV = ""
