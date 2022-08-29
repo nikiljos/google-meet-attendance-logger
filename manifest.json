@@ -1,7 +1,7 @@
 {
   "name": "Google Meet Attendance: Participants to CSV",
   "homepage_url": "https://meet-attendance.nikjos.in/",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "manifest_version": 2,
   "description": "Save the names of your Google Meet participants to a CSV file instantly... Works perfectly with the new Google Meet UI",
   "background": {
